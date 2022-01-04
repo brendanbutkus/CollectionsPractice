@@ -1,0 +1,12 @@
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.deps.json
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.json
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfo.cs
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/brendanbutkus/Desktop/CSharp/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.genruntimeconfig.cache
